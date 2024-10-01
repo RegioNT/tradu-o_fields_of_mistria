@@ -8,50 +8,49 @@ em progresso...
 # ----------------------------------------------------------------
 Conversas com personagens e reações de presentes
 * Errol;
-- [ ] Hayden;
-- [ ] Hemlock;
-- [ ] Holt;
-- [ ] Josephine;
-- [ ] Juniper;
-- [ ] Landen;
-- [ ] Louis;
-- [ ] Luc;
-- [ ] Maple;
-- [ ] March;
-- [ ] Merri;
-- [ ] Nora;
-- [ ] Olric;
-- [ ] Reina;
-- [ ] Ryis;
-- [ ] Seridia;
-- [ ] Stillwell;
-- [ ] Taliferro;
-- [ ] Terithia;
-- [ ] Valen;
-- [ ] Vera;
-- [ ] Wheedle;
-- [ ] Zorel;
+* Hayden;
+* Hemlock;
+* Holt;
+* Josephine;
+* Juniper;
+* Landen;
+* Louis;
+* Luc;
+* Maple;
+* March;
+* Merri;
+* Nora;
+* Olric;
+* Reina;
+* Ryis;
+* Seridia;
+* Stillwell;
+* Taliferro;
+* Terithia;
+* Valen;
+* Vera;
+* Wheedle;
+* Zorel;
 # ----------------------------------------------------------------
 Conversas em Eventos:
-- [ ] Festival da Primavera;
+* Festival da Primavera;
 # ----------------------------------------------------------------
 Dialogo Geral: 
-- [ ] Sexta à Noite na Pousada;
-- [ ] Praia;
-- [ ] Antecipação de Aniversário;
-- [ ] Transição de Estação;
-- [ ] Hora do Dia;
-- [ ] Viagem;
+* Sexta à Noite na Pousada;
+* Praia;
+* Antecipação de Aniversário;
+* Transição de Estação;
+* Hora do Dia;
+* Viagem;
 # ----------------------------------------------------------------
 Dialogo em Grupo:
-- [x] Em Progresso... 
-- [ ] Completo;
+* Em Progresso... 
 # ----------------------------------------------------------------
 Local:
-- [ ] O porão
+* O porão
 # ----------------------------------------------------------------
 História da Família de Adeline:
-- [x] Em Progresso;
-- [ ] Completo;
+* Em Progresso;
+* Completo;
 # ----------------------------------------------------------------
 Em progresso...
