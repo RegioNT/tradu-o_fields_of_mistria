@@ -1,32 +1,15 @@
 # traducao_fields_of_mistria
 # Esta é uma tradução que está sendo feita para o jogo Fields of Mistria. Todos os dias terá uma atualiazação da tradução que está sendo feita.
 
-# Progresso:
+# Progresso ainda a ser feito:
 
-Início:
-- [x] Introdução inicial da história
-- [x] Interface (Opções de Menu, configurações, Mapa, Inventário)
-# ----------------------------------------------------------------
 Missões da História:
-- [x] Conhecer vizinhança
-- [x] Pegar Madeira
-- [x] Pegar Picareta para Quebrar Pedras
 em progresso...
 # ----------------------------------------------------------------
 Conversas com personagens e reações de presentes
-- [x] Adeline;
-- [x] Balor;
-- [x] Estátua de Caldarus;
-- [x] Celine;
-- [x] Darcy;
-- [x] Dell;
-- [x] Dozy;
-- [x] Eiland;
-- [x] Elsie;
 - [ ] Errol;
 - [ ] Hayden;
 - [ ] Hemlock;
-- [x] Henrietta;
 - [ ] Holt;
 - [ ] Josephine;
 - [ ] Juniper;
