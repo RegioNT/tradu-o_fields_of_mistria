@@ -7,7 +7,7 @@ Missões da História:
 em progresso...
 # ----------------------------------------------------------------
 Conversas com personagens e reações de presentes
-- [ ] Errol;
+- [x] Errol;
 - [ ] Hayden;
 - [ ] Hemlock;
 - [ ] Holt;
