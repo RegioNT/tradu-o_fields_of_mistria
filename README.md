@@ -12,7 +12,7 @@ Missões da História:
 (X) Pegar Madeira
 (X) Pegar Picareta para Quebrar Pedras
 em progresso...
-
+# ---------------------------------------------------------------
 Conversas com personagens e reações de presentes
 (X) Adeline;
 (X) Balor;
@@ -48,10 +48,10 @@ Conversas com personagens e reações de presentes
 () Vera;
 () Wheedle;
 () Zorel;
-
+# ---------------------------------------------------------------
 Conversas em Eventos:
 () Festival da Primavera;
-
+# ---------------------------------------------------------------
 Dialogo Geral: 
 () Sexta à Noite na Pousada;
 () Praia;
@@ -59,10 +59,16 @@ Dialogo Geral:
 () Transição de Estação;
 () Hora do Dia;
 () Viagem;
-
+# ---------------------------------------------------------------
 Dialogo em Grupo:
 (X) Em Progresso... 
 () Completo;
-
+# ---------------------------------------------------------------
 Local:
 () O porão
+# ---------------------------------------------------------------
+História da Família de Adeline:
+() Em Progresso;
+() Completo;
+# ---------------------------------------------------------------
+Em progresso...
