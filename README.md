@@ -4,8 +4,8 @@
 # Progresso:
 
 Início:
-(X) Introdução inicial da história
-(X) Interface (Opções de Menu, configurações, Mapa, Inventário)
+(X)Introdução inicial da história
+(X)Interface (Opções de Menu, configurações, Mapa, Inventário)
 
 Missões da História:
 (X)Conhecer vizinhança
