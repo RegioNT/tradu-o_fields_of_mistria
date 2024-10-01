@@ -4,7 +4,7 @@
 # Progresso:
 
 Início:
-- [X] Introdução inicial da história
+- [x] Introdução inicial da história
 - [X] Interface (Opções de Menu, configurações, Mapa, Inventário)
 # ----------------------------------------------------------------
 Missões da História:
