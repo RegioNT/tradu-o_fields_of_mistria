@@ -8,7 +8,7 @@ Início:
 (X) Interface (Opções de Menu, configurações, Mapa, Inventário)
 
 Missões da História:
-(X) Conhecer vizinhança
+(X)Conhecer vizinhança
 (X) Pegar Madeira
 (X) Pegar Picareta para Quebrar Pedras
 em progresso...
