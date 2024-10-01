@@ -5,28 +5,28 @@
 
 Início:
 - [x] Introdução inicial da história
-- [X] Interface (Opções de Menu, configurações, Mapa, Inventário)
+- [x] Interface (Opções de Menu, configurações, Mapa, Inventário)
 # ----------------------------------------------------------------
 Missões da História:
-- [X]Conhecer vizinhança
-- [X] Pegar Madeira
-- [X] Pegar Picareta para Quebrar Pedras
+- [x] Conhecer vizinhança
+- [x] Pegar Madeira
+- [x] Pegar Picareta para Quebrar Pedras
 em progresso...
 # ----------------------------------------------------------------
 Conversas com personagens e reações de presentes
-- [X] Adeline;
-- [X] Balor;
-- [X] Estátua de Caldarus;
-- [X] Celine;
-- [X] Darcy;
-- [X] Dell;
-- [X] Dozy;
-- [X] Eiland;
-- [X] Elsie;
+- [x] Adeline;
+- [x] Balor;
+- [x] Estátua de Caldarus;
+- [x] Celine;
+- [x] Darcy;
+- [x] Dell;
+- [x] Dozy;
+- [x] Eiland;
+- [x] Elsie;
 - [ ] Errol;
 - [ ] Hayden;
 - [ ] Hemlock;
-- [X] Henrietta;
+- [x] Henrietta;
 - [ ] Holt;
 - [ ] Josephine;
 - [ ] Juniper;
@@ -61,14 +61,14 @@ Dialogo Geral:
 - [ ] Viagem;
 # ----------------------------------------------------------------
 Dialogo em Grupo:
-- [X] Em Progresso... 
+- [x] Em Progresso... 
 - [ ] Completo;
 # ----------------------------------------------------------------
 Local:
 - [ ] O porão
 # ----------------------------------------------------------------
 História da Família de Adeline:
-- [X] Em Progresso;
+- [x] Em Progresso;
 - [ ] Completo;
 # ----------------------------------------------------------------
 Em progresso...
