@@ -3,4 +3,4 @@
 
 * Tradução Concluída
 
-Para traduzir o jogo, basta copiar e colar na pasta do jogo.
+# Para traduzir o jogo, basta copiar e colar na pasta do jogo.
